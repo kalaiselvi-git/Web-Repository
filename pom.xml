@@ -46,7 +46,7 @@
    <profile>
      <id>releases</id> 
   <build>
-    <finalName>webApps</finalName>
+    <finalName>WebApp</finalName>
     <plugins>
     <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
