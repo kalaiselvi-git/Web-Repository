@@ -35,6 +35,7 @@ public class Admission extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		System.out.println("Hai");
 		System.out.println("Insertion started-------!!");
 		String stname=request.getParameter("stname");
 		String rollno=request.getParameter("roll");
